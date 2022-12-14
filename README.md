@@ -1,2 +1,1 @@
-# library-system
-Just a simple library system, that is used with the command line. 
+# System allowing to keep track of all the books in the library.
